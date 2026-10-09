@@ -1,0 +1,19 @@
+{
+    "name":  "ac-2",
+    "version":  "1.0.0",
+    "description":  "",
+    "main":  "index.js",
+    "scripts":  {
+                    "start":  "node http_server.js",
+                    "build":  "npm install"
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "type":  "commonjs",
+    "engines":  {
+                    "node":  "14.x"
+                }
+}
